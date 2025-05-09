@@ -1,0 +1,7 @@
+title: "Михаил Рудин"
+description: "Персональный сайт и портфолио"
+author: "Mikerudine"
+baseurl: "" # не меняй для пользовательского GitHub Pages
+url: "https://mikerudine.github.io"
+markdown: kramdown
+theme: minima
