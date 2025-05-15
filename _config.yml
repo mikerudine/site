@@ -1,16 +1,16 @@
 # site settings
-title: Forty
+title: Mike Rudine
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: misharudine@gmail.com
 description: Big data study under a high precision microscope
 baseurl: "/site" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://mikerudine.github.io"
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: Kyiv
+state: Kyiv
 zip_code: 55555
-country: United States of America
+country: Ukraine
 phone: (716) 555-5555
 
 # homepage tiles
